@@ -1,0 +1,28 @@
+/* body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #94c8e8;
+  }
+.circle {
+  border-radius: 100%;
+}
+  section {
+    margin-bottom: 50px;
+  }
+  
+  hr {
+    border: 0;
+    height: 1px;
+    background: #1733f0;
+    margin: 20px 0;
+  } */
+
+  .circle {
+    border-radius: 100%;
+}
+
+.bottom-cloud {
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
